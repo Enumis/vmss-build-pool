@@ -9,7 +9,7 @@
             "value": "7waxhvKuK81ZMT426"
         },
         "subnetId": {
-            "value": "/subscriptions/f686f9e4-e9e0-4fc9-91c3-dcf6a42c941b/resourceGroups/Enumis-Global/providers/Microsoft.Network/virtualNetworks/Enumis-Gloobal/subnets/default"
+            "value": "/subscriptions/f686f9e4-e9e0-4fc9-91c3-dcf6a42c941b/resourceGroups/Enumis-Global/providers/Microsoft.Network/virtualNetworks/Enumis-Global/subnets/default"
         },
         "managedImageResourceUri": {
             "value": "/subscriptions/f686f9e4-e9e0-4fc9-91c3-dcf6a42c941b/resourceGroups/Enumis-Global/providers/Microsoft.Compute/images/build-agent-image"
