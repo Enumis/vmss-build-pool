@@ -6,19 +6,19 @@
             "value": "azdo"
         },
         "adminPassword": {
-            "value": "<<<password>>>"
+            "value": "7waxhvKuK81ZMT426"
         },
         "subnetId": {
-            "value": "/subscriptions/xxxx/resourceGroups/resource-group/providers/Microsoft.Network/virtualNetworks/vnet-name/subnets/default"
+            "value": "/subscriptions/f686f9e4-e9e0-4fc9-91c3-dcf6a42c941b/resourceGroups/Enumis-Global/providers/Microsoft.Network/virtualNetworks/Enumis-Gloobal/subnets/default"
         },
         "managedImageResourceUri": {
-            "value": "/subscriptions/xxxx/resourceGroups/resource-group/providers/Microsoft.Compute/images/build-agent-image"
+            "value": "/subscriptions/f686f9e4-e9e0-4fc9-91c3-dcf6a42c941b/resourceGroups/Enumis-Global/providers/Microsoft.Compute/images/build-agent-image"
         },
         "agentOrgUrl": {
-            "value": "https://dev.azure.com/organization"
+            "value": "https://dev.azure.com/enumis-uk"
         },
         "agentPat": {
-            "value": "<<<pat>>>"
+            "value": "ni2hpba4w6y2heq4ii4rlcmzr36nxmabljjgm3ugj3djxx2zeu5q"
         },
         "agentPool": {
             "value": "VMSSPool"
