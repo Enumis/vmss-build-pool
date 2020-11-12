@@ -21,7 +21,7 @@
             "value": 'azcj6loeb3v6aom4v3pgni4c6xuevcb3q7ot55xfya6u5m657cqq'
         },
         "agentPool": {
-            "value": "VMSSPool"
+            "value": "default"
         }
     }
 }
