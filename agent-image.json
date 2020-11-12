@@ -14,7 +14,7 @@
       "client_secret": "{{user `client_secret`}}",
 
       "managed_image_name": "build-agent-image",
-      "managed_image_resource_group_name": "vmss-build-pool",
+      "managed_image_resource_group_name": "Enumis-Global",
 
       "os_type": "Linux",
       "image_publisher": "Canonical",
