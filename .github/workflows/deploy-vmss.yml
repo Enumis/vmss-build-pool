@@ -4,6 +4,7 @@ on:
   push:
     paths: 
       - 'azuredeploy.json'
+      - 'deploy-parameters.json'
 
 jobs:
   build:
