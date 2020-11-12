@@ -18,7 +18,7 @@
             "value": "https://dev.azure.com/enumis-uk"
         },
         "agentPat": {
-            "value": "ni2hpba4w6y2heq4ii4rlcmzr36nxmabljjgm3ugj3djxx2zeu5q"
+            "value": 'azcj6loeb3v6aom4v3pgni4c6xuevcb3q7ot55xfya6u5m657cqq'
         },
         "agentPool": {
             "value": "VMSSPool"
